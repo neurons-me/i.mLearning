@@ -1,0 +1,6 @@
+README.md
+setup.py
+i.mLearning.egg-info/PKG-INFO
+i.mLearning.egg-info/SOURCES.txt
+i.mLearning.egg-info/dependency_links.txt
+i.mLearning.egg-info/top_level.txt
